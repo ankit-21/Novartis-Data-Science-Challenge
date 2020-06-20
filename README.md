@@ -6,7 +6,7 @@ This tree based ensemble algorithm has a parameter 'scale_pos_weight' that penal
 ## SVM
 Similar to XGBoost, this ML technique also has a parameter 'class_weight' that penalizes the misclassification of the minority class more than the majority class.
 
-## imblearn library
+## imblearn Library
 ## Random Over-Sampling
 This method selects the minority class of the target feature and balances it with the number of samples in the majority class by picking samples at random with replacement from the minority class.
 ## SMOTE (Synthetic Minority Oversampling Technique)
